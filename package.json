@@ -1,0 +1,19 @@
+{
+  "name": "04_todo-backend",
+  "version": "1.0.0",
+  "description": "a backend for 05_todo-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsolater/04_todo-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsolater/04_todo-backend/issues"
+  },
+  "homepage": "https://github.com/edsolater/04_todo-backend#readme"
+}
